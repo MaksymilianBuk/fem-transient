@@ -1,0 +1,12 @@
+H: 0.1
+L: 0.1
+nH: 31
+nL: 31
+alpha: 300
+ro: 7800
+cv: 700
+k: 25
+ambientTemperature: 1200
+initialTemperature: 100.0
+simulationTime: 100
+simulationStepTime: 1
